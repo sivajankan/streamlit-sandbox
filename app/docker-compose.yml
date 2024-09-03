@@ -1,0 +1,9 @@
+services:
+  app:
+    build: .
+
+    volumes:
+      - ./app:/app 
+
+    ports:
+      - "8501:8501"
