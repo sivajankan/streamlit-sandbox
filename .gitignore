@@ -1,1 +1,3 @@
-/app/.streamlit
+app/.streamlit
+app/.DS_Store
+app/__pycache__
